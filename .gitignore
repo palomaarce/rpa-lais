@@ -1,0 +1,32 @@
+# Dependências
+node_modules/
+package-lock.json
+
+# Arquivos do sistema
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Arquivos de saída (JSON gerados)
+atendimentos.json
+mensagens.json
+output/
+
+# Variáveis de ambiente
+.env
+.env.local
+
+# Docker
+.docker/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Temporários
+tmp/
+temp/
+*.tmp
+
